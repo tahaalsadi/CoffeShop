@@ -1,0 +1,19 @@
+<resources>
+    <string name="toppings">INGREDENTES</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="app_name">Solo Java</string>
+    <string name="name">Nomber</string>
+    <string name="order">ORDENAR</string>
+    <string name="quantity">CANTIOAD</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="wippdcream">Crema batida</string>
+    <string name="coffeeorder">Solo java para Kaptain Kunal</string>
+    <string name="email_clint">email clint</string>
+    <string name="namejava">Nomber:</string>
+    <string name="quantityjava">Cantidad:</string>
+    <string name="totaljava">Total:$</string>
+    <string name="chocolatejava">Agregue la chocolate?</string>
+    <string name="wippdcreamjava">Agregue la crema batida?</string>
+    <string name="toastmesseg1">Cups Cann\'t be less than 1</string>
+    <string name="toastmesseg2">Cups Cann\'t be more than 100</string>
+</resources>

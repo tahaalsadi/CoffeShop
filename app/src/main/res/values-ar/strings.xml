@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toppings">الرؤوس</string>
+    <string name="thank_you">! شكراَ</string>
+    <string name="app_name">جافا فقط</string>
+    <string name="wippdcream">مغطاه بالكريما</string>
+    <string name="chocolate">مع الشوكولا</string>
+    <string name="quantity">الكمية</string>
+    <string name="order">طلب</string>
+    <string name="name">الأسم</string>
+    <string name="coffeeorder">طلب القهوة</string>
+    <string name="email_clint">عميل البريد</string>
+    <string name="toastmesseg1">لايمكن ان تكون الأكواب أقل من 1</string>
+    <string name="toastmesseg2">لايمكن ان تكون الأكواب اكثر من 100</string>
+    <string name="namejava">الأسم</string>
+    <string name="wippdcreamjava">مضاف اليه الكريما ؟</string>
+    <string name="chocolatejava">مضاف اليه الشوكولا؟</string>
+    <string name="quantityjava">الكمية:</string>
+    <string name="totaljava">الأجمالي:$</string>
+</resources>
